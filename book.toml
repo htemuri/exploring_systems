@@ -1,0 +1,10 @@
+[book]
+authors = ["Harris Temuri"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Exploring Systems"
+
+[output.html]
+preferred-dark-theme = "ayu"
+fold.enable = true
