@@ -1,2 +1,2 @@
 # exploring_systems
-mdBook of how various systems work
+Short book of how various systems work
