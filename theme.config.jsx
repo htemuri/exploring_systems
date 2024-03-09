@@ -1,9 +1,10 @@
+
 export default {
-    logo: <span>🗻 Exploring Systems</span>,
+    logo: <><span style={{ verticalAlign: 'baseline' }}>🌋</span><span style={{ paddingLeft: '.5em' }}>Exploring Systems</span></>,
     project: {
         link: 'https://github.com/htemuri/exploring_systems'
     },
-    docsRepositoryBase: 'https://github.com/htemuri/exploring_systems/',
+    docsRepositoryBase: 'https://github.com/htemuri/exploring_systems/blob/main',
     sidebar: {
         toggleButton: true
     },
@@ -17,5 +18,4 @@ export default {
         text: ""
     },
     faviconGlyph: "🗻"
-
 }
