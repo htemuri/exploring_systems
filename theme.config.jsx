@@ -1,5 +1,5 @@
 export default {
-    logo: <span>Exploring Systems</span>,
+    logo: <span>🗻 Exploring Systems</span>,
     project: {
         link: 'https://github.com/htemuri/exploring_systems'
     },
@@ -12,6 +12,10 @@ export default {
     },
     feedback: {
         content: "Did I get something wrong? Give me feedback ->"
-    }
-    // ... other theme options
+    },
+    footer: {
+        text: ""
+    },
+    faviconGlyph: "🗻"
+
 }

@@ -1,9 +1,13 @@
 {
-    "index": "Introduction",
-    "linux": {
-        "title": "Linux",
+    "*": {
         "theme": {
-            "toc": true
+            "footer": false
         }
+    },
+    "index": {
+        "title": "Introduction"
+    },
+    "linux": {
+        "title": "Linux"
     }
 }
